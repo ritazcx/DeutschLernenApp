@@ -1,0 +1,7 @@
+{
+  "name": "LingoFlow",
+  "description": "An Apple-style, premium AI language learning application focusing on German mastery through text and real-time voice immersion.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
